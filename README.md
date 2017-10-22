@@ -1,2 +1,2 @@
-# Regresi-n-multiple
-método numérico
+# Regresi-n-lineal
+Método numérico
